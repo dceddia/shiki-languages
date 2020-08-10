@@ -152,7 +152,7 @@
         "affectsGlobalScope": false
       },
       "./src/lang.ts": {
-        "version": "3f45cb2d0d038fea79e0f5e80daf8a651c2907299c87343e8a91043d8536594c",
+        "version": "6544a2fbd3ef07ea894d01daa1fb419111aedf781aeaada8f6bf5dad331c3d65",
         "signature": "c4a1c332bdd7ed299655577d9c22c2632dfd2810ff0136349ee9b0373ec216b1",
         "affectsGlobalScope": false
       },
@@ -578,7 +578,6 @@
       "composite": true,
       "rootDir": "./src",
       "outDir": "./dist",
-      "watch": true,
       "configFilePath": "./tsconfig.json"
     },
     "referencedMap": {
